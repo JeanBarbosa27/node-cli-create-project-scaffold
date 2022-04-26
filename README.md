@@ -1,5 +1,5 @@
 # Node CLI Create Project Scaffold
-A simple example ...
+A simple example of how to build a CLI using Node to Scaffolding JavaScript and TypeScript projects, just for studying reason.
 
 # Running locally
 1. Clone this project
